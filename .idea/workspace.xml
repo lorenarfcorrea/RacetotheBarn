@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lorenarfcorrea"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lorenarfcorrea/RacetotheBarn.git",
+    "accountId": "91da663b-5546-4a58-825f-d62c0e986c12"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3FgNJOKdh1aoNUqZEhlaFOg9FlS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Const.executor": "Run",
+    "Python.Menu.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Lorena/OneDrive/Desktop/PythonProject/RacetotheBarn/Code"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lorena\OneDrive\Desktop\PythonProject\RacetotheBarn\Code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lorena\OneDrive\Desktop\PythonProject\RacetotheBarn" />
+      <recent name="C:\Users\Lorena\OneDrive\Desktop\PythonProject\RacetotheBarn\asset" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="" />
+      <created>1782492680100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782492680100</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Completed: Main Menu, Level 1, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782498829618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782498829618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed: Main Menu, Level 1, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782498965959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782498965959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782504700836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782504700836</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782504788129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782504788129</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782504822943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782504822943</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782507933943</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782507933943</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782508330982</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782508330982</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782508397347</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782508397347</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782508496669</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782508496669</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782508508328</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782508508328</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782508519545</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782508519545</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed: Main Menu, Level 1, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
+    <MESSAGE value="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
+  </component>
+</project>
