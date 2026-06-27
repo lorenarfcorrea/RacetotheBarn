@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
+    <list default="true" id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Obstacle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Obstacle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +51,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Const.executor": "Run",
+    "Python.Game.executor": "Run",
     "Python.Menu.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -165,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1782508519545</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782508770051</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782508770051</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
+      <option name="closed" value="true" />
+      <created>1782508875926</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782508875926</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +206,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed: Main Menu, Level 1, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
     <MESSAGE value="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
+    <MESSAGE value="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
   </component>
 </project>
