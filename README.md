@@ -1,5 +1,7 @@
 🦊 Race to the Barn
 
+A 2D arcade game developed in Python using the Pygame library.
+
 Help the animals reach the barn before the storm arrives!
 
 🎮 About
