@@ -25,13 +25,13 @@ GAME MENU
 <img width="564" height="350" alt="1P_Level2" src="https://github.com/user-attachments/assets/c0400eeb-b6c2-4482-b555-5a58de04b85d" />
 
 
-2 PlayerS - LEVEL 1
+2 Players - LEVEL 1
 
 
 <img width="566" height="346" alt="2P_Level1" src="https://github.com/user-attachments/assets/bd232d0c-0021-4b67-b48d-e81c62271d16" />
 
 
-2 PlayerS - LEVEL 2
+2 Players - LEVEL 2
 
 <img width="567" height="343" alt="2P_Level2" src="https://github.com/user-attachments/assets/7dfcf56e-10ae-4c8e-8b68-bd8970f3b34f" />
 
