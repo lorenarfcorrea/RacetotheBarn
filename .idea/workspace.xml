@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Obstacle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Obstacle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="Completed: Menu, 1 Player, 2 Players Cooperative, 2 Players Competitive, Level 1, Level 2, Parallax (7 camadas), Animação dos personagens, Música do menu, Música de cada level, Som do pulo, Obstáculos aleatórios, Colisão, Condição de vitória, Condição de derrota, Cronômetro, Score, Persistência dos jogadores no modo competitivo, Comentários com informações do jogo.">
+      <change beforePath="$PROJECT_DIR$/Requirements" beforeDir="false" afterPath="$PROJECT_DIR$/Requirements" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -189,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782508875926</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Completed: Menu, 1 Player, 2 Players Cooperative, 2 Players Competitive, Level 1, Level 2, Parallax (7 camadas), Animação dos personagens, Música do menu, Música de cada level, Som do pulo, Obstáculos aleatórios, Colisão, Condição de vitória, Condição de derrota, Cronômetro, Score, Persistência dos jogadores no modo competitivo, Comentários com informações do jogo.">
+      <option name="closed" value="true" />
+      <created>1782594856835</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1782594856835</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +211,7 @@
     <MESSAGE value="Completed: Main Menu, Level 1, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
     <MESSAGE value="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
     <MESSAGE value="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
+    <MESSAGE value="Completed: Menu, 1 Player, 2 Players Cooperative, 2 Players Competitive, Level 1, Level 2, Parallax (7 camadas), Animação dos personagens, Música do menu, Música de cada level, Som do pulo, Obstáculos aleatórios, Colisão, Condição de vitória, Condição de derrota, Cronômetro, Score, Persistência dos jogadores no modo competitivo, Comentários com informações do jogo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed: Menu, 1 Player, 2 Players Cooperative, 2 Players Competitive, Level 1, Level 2, Parallax (7 camadas), Animação dos personagens, Música do menu, Música de cada level, Som do pulo, Obstáculos aleatórios, Colisão, Condição de vitória, Condição de derrota, Cronômetro, Score, Persistência dos jogadores no modo competitivo, Comentários com informações do jogo." />
   </component>
 </project>
