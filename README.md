@@ -1,22 +1,22 @@
+# 🦊 Race to the Barn
 
-🦊 Race to the Barn
+A 2D arcade game developed in **Python** using the **Pygame** library.
 
-A 2D arcade game developed in Python using the Pygame library.
+> Help the animals reach the barn before the storm arrives!
 
-Help the animals reach the barn before the storm arrives!
 
-🎮 About
 
-Race to the Barn is a 2D arcade game developed in Python using the Pygame library. 
-The game consists of two timed levels in which players must avoid obstacles and reach the end before the storm arrives. 
-It includes parallax scrolling backgrounds, sprite animations, sound effects, background music, collision detection, 
-a scoring system, and three gameplay modes: Single Player, 2-Player Cooperative, and 2-Player Competitive. 
-In Competitive mode, players who are eliminated do not continue to the next level.
+## 🎮 About
 
-GAME MENU
+Race to the Barn is a 2D arcade game developed in Python using the Pygame library. The game consists of two timed levels in which players must avoid obstacles and reach the end before the storm arrives. It includes parallax scrolling backgrounds, sprite animations, sound effects, background music, collision detection, a scoring system, and three gameplay modes: Single Player, 2-Player Cooperative, and 2-Player Competitive. In Competitive mode, players who are eliminated do not continue to the next level.
+
+---
+
+### GAME MENU
 
 <img width="563" height="349" alt="GameMenu" src="https://github.com/user-attachments/assets/5470060f-af1b-4823-9eaf-ddcb74e6835f" />
 
+---
 
 1 Player - LEVEL 1
 
@@ -28,8 +28,9 @@ GAME MENU
 <img width="564" height="350" alt="1P_Level2" src="https://github.com/user-attachments/assets/c0400eeb-b6c2-4482-b555-5a58de04b85d" />
 
 
-2 Players - LEVEL 1
+---
 
+2 Players - LEVEL 1
 
 <img width="566" height="346" alt="2P_Level1" src="https://github.com/user-attachments/assets/bd232d0c-0021-4b67-b48d-e81c62271d16" />
 

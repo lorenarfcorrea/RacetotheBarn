@@ -14,6 +14,9 @@ class Game:
         self.window = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
         pygame.display.set_caption("Race to the Barn")
 
+        icon = pygame.image.load("asset/icon.png")
+        pygame.display.set_icon(icon)
+
         # Fontes usadas na tela final
         self.font = pygame.font.Font("asset/PressStart2P-Regular.ttf", 18)
         self.instruction_font = pygame.font.Font("asset/PressStart2P-Regular.ttf", 9)
@@ -146,7 +149,7 @@ class Game:
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     pygame.quit()
-                    quit()
+                    raise SystemExit
 
                 # ENTER volta ao menu
                 if event.type == pygame.KEYDOWN:

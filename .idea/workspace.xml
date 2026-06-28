@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="Completed: Menu, 1 Player, 2 Players Cooperative, 2 Players Competitive, Level 1, Level 2, Parallax (7 camadas), Animação dos personagens, Música do menu, Música de cada level, Som do pulo, Obstáculos aleatórios, Colisão, Condição de vitória, Condição de derrota, Cronômetro, Score, Persistência dos jogadores no modo competitivo, Comentários com informações do jogo.">
-      <change beforePath="$PROJECT_DIR$/Requirements" beforeDir="false" afterPath="$PROJECT_DIR$/Requirements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,40 +23,40 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lorenarfcorrea"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lorenarfcorrea&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lorenarfcorrea/RacetotheBarn.git",
-    "accountId": "91da663b-5546-4a58-825f-d62c0e986c12"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lorenarfcorrea/RacetotheBarn.git&quot;,
+    &quot;accountId&quot;: &quot;91da663b-5546-4a58-825f-d62c0e986c12&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3FgNJOKdh1aoNUqZEhlaFOg9FlS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Const.executor": "Run",
-    "Python.Game.executor": "Run",
-    "Python.Menu.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Lorena/OneDrive/Desktop/PythonProject/RacetotheBarn/Code"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Const.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lorena/OneDrive/Desktop/PythonProject/RacetotheBarn/Code&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lorena\OneDrive\Desktop\PythonProject\RacetotheBarn\Code" />
