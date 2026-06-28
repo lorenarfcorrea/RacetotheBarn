@@ -1,3 +1,4 @@
+
 🦊 Race to the Barn
 
 A 2D arcade game developed in Python using the Pygame library.
@@ -14,7 +15,7 @@ In Competitive mode, players who are eliminated do not continue to the next leve
 
 GAME MENU
 
-<img width="568" height="349" alt="GameMenu" src="https://github.com/user-attachments/assets/0df3e92f-473b-48b2-9313-700b60e6670d" />
+<img width="563" height="349" alt="GameMenu" src="https://github.com/user-attachments/assets/5470060f-af1b-4823-9eaf-ddcb74e6835f" />
 
 
 1 Player - LEVEL 1
