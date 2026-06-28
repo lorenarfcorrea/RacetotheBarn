@@ -1,9 +1,11 @@
-# 🦊 Race to the Barn
+<h1 align="center">
+  <img src="asset/icon.png" width="48">
+  Race to the Barn
+</h1>
 
-A 2D arcade game developed in **Python** using the **Pygame** library.
-
-> Help the animals reach the barn before the storm arrives!
-
+<p align="center">
+  <b>Help the animals reach the barn before the storm arrives!</b>
+</p>
 
 
 ## 🎮 About
