@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="Completed: Menu, 1 Player, 2 Players Cooperative, 2 Players Competitive, Level 1, Level 2, Parallax (7 camadas), Animação dos personagens, Música do menu, Música de cada level, Som do pulo, Obstáculos aleatórios, Colisão, Condição de vitória, Condição de derrota, Cronômetro, Score, Persistência dos jogadores no modo competitivo, Comentários com informações do jogo.">
-      <change beforePath="$PROJECT_DIR$/Code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Game.py" afterDir="false" />
+    <list default="true" id="35d1937b-a526-4e47-9589-a9d9da415692" name="Changes" comment="Update README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782594856835</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1782612859086</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1782612859086</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +220,8 @@
     <MESSAGE value="Completed: Level 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
     <MESSAGE value="Completed: Menu, Level 1 and 2, Parallax Background, Animated Player, Jump Mechanic, and Infinite Obstacles." />
     <MESSAGE value="Completed: Menu, 1 Player, 2 Players Cooperative, 2 Players Competitive, Level 1, Level 2, Parallax (7 camadas), Animação dos personagens, Música do menu, Música de cada level, Som do pulo, Obstáculos aleatórios, Colisão, Condição de vitória, Condição de derrota, Cronômetro, Score, Persistência dos jogadores no modo competitivo, Comentários com informações do jogo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed: Menu, 1 Player, 2 Players Cooperative, 2 Players Competitive, Level 1, Level 2, Parallax (7 camadas), Animação dos personagens, Música do menu, Música de cada level, Som do pulo, Obstáculos aleatórios, Colisão, Condição de vitória, Condição de derrota, Cronômetro, Score, Persistência dos jogadores no modo competitivo, Comentários com informações do jogo." />
+    <MESSAGE value="Aqui está a tradução para um inglês natural e apropriado para um README do GitHub:&#10;&#10;&gt; **Completed:** Main Menu, 1 Player Mode, 2-Player Cooperative Mode, 2-Player Competitive Mode, Level 1, Level 2, Parallax Scrolling (7 Layers), Character Animations, Menu Music, Level Background Music, Jump Sound Effects, Random Obstacles, Collision Detection, Victory Condition, Defeat Condition, Timer, Score System, Player Persistence in Competitive Mode, In-Game Information Comments." />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
 </project>
